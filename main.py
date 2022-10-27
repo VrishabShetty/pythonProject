@@ -4,7 +4,6 @@ from BrakeCalculator import BrakeCalculator
 from BrakeForceAndTorque import BrakeForceAndTorque
 from Loads import Loads
 from PressureInCylinder import PressureInCylinder
-import time
 
 calculator = BrakeCalculator()
 itr = 0
